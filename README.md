@@ -14,5 +14,6 @@
 7. * Запушил все коммиты на удалённый репозиторий GitHub и решил конфликты:)
 
 ##Экстраверсия:
-1.Переименовал коммит (git commit --ammend -c <Commit ID>)
+1. Переименовал коммит (git commit --ammend -c <Commit ID>)
+2. Перенёс коммит (git cherry-pick <commit>)
 
